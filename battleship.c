@@ -1,10 +1,9 @@
 hannah
 10x10 standard board
 one or two players
-how many boats do you want to play with - 1,2,3 of each size ? maybe 
-what size board do you want 10x10 - 20x20
+what size board do you want?
 
-boat sizes - 1,2,3,4,5
+boat sizes - 1,2,3,4,5 squares
 
 void printboard(char lines[ROWS][COLS]){
 
